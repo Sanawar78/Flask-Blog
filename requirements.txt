@@ -115,7 +115,6 @@ testresources==2.0.1
 translate-toolkit==2.5.0
 Twisted==18.9.0
 urllib3==1.25.8
-usb-creator==0.3.7
 virtualenv==20.4.7
 virtualenv-clone==0.3.0
 vobject==0.9.6.1
