@@ -58,7 +58,6 @@ netifaces==0.11.0
 notify2==0.3.1
 oauthlib==3.1.1
 olefile==0.46
-onboard==1.4.1
 paramiko==2.7.2
 pbr==5.6.0
 pexpect==4.8.0
