@@ -42,7 +42,6 @@ jeepney==0.7.0
 Jinja2==3.0.1
 keyring==23.0.1
 l20n==4.0.0a1
-language-selector==0.1
 launchpadlib==1.10.13
 lazr.restfulclient==0.14.3
 lazr.uri==1.0.5
