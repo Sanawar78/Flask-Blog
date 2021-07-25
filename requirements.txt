@@ -17,7 +17,6 @@ configobj==5.0.6
 constantly==15.1.0
 cryptography==3.4.7
 dbus-python==1.2.16
-defer==1.0.6
 diff-match-patch==20200713
 distlib==0.3.2
 distro==1.5.0
